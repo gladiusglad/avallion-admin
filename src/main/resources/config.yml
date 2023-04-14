@@ -1,0 +1,12 @@
+prefix: "&aAvallion &7»&r "
+
+mysql:
+  host: "localhost"
+  port: 3306
+  database: "avallionadmin"
+  username: "root"
+  password: "root"
+  use-ssl: false
+
+death-stats: true
+death-stats-purge: 7d
